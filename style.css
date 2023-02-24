@@ -1,0 +1,41 @@
+section{
+    background-image: url(./—Pngtree—hand\ account\ style\ mathematics\ education_1176982.png);
+    width: 100vw;
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 600px;
+    height: 400px;
+}
+.header{
+    font-family: 'Rubik Mono One', sans-serif;
+font-size: 40px;
+color: rgb(0,0,131)
+}
+.decrease{
+    font-family: 'IBM Plex Sans Condensed', sans-serif;
+    font-size: 15px;
+
+
+}
+.reset{
+    font-family: 'IBM Plex Sans Condensed', sans-serif;
+font-size: 15px;
+   
+
+}
+.increase{
+    
+    font-family: 'IBM Plex Sans Condensed', sans-serif;
+    font-size: 15px;
+
+}
