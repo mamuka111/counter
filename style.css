@@ -39,3 +39,13 @@ font-size: 15px;
     font-size: 15px;
 
 }
+.main{
+    margin-top: 50px;
+    color: rgb(0, 3, 6);
+    font-size: 50px;
+    font-family: 'Rubik Mono One', sans-serif;
+
+}
+.safe{
+    margin-top: 50px;
+}
